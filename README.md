@@ -9,6 +9,6 @@ Notes:
 
 2. Please consider citing our works if you find the code useful. 
 
-3. Any kind of discussion and collaboration are always welcomed. 
+3. Any kind of discussions and collaborations are always welcomed. 
 
 -Email: pinjun.zheng@kaust.edu.sa 
