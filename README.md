@@ -1,4 +1,4 @@
-# RISgeoMCRB2023ICASSP
+# Misspecified Cramer-Rao Bound of RIS-aided Localization under Geometry Mismatch
 
 This is the simulation code for the paper:
 
